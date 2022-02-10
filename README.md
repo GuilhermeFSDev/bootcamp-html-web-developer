@@ -14,3 +14,4 @@ Concluído na data: xx/xx/2022.
 3. JavaScript (Exemplo básico de JavaScript)
 4. Netflix (Clone da página da Netflix com HTML, CSS e JavaScript)
 5. Bootstrap (Exemplo básico do uso do framework Bootstrap)
+6. Jogo da Cobrinha (Jogo da Cobrinha desenvolvido em JavaScript)
