@@ -7,7 +7,7 @@ Descrição: Aprenda a programar páginas de internet e desenvolver websites uti
 
 Duração: 27 horas.
 
-Concluído na data: xx/xx/2022.
+Concluído na data: 10/02/2022.
 ## Informações sobre as pastas
 1. HTML e CSS (Exemplos básicos de HTML e CSS)
 2. Instagram (Clone da página de login do Instagram utilizando HTML e CSS)
